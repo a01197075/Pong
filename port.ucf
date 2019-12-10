@@ -1,0 +1,13 @@
+
+NET "up2" LOC = "M14";
+NET "down2" LOC = "M13";
+NET "up1" LOC = "L14";
+NET "down1" LOC = "L13";
+ 
+NET "clk"  LOC = "T9"  ; 
+
+NET "blue_out"  LOC = "R11"  ;
+NET "green_out"  LOC = "T12"  ; 
+NET "red_out"  LOC = "R12"  ;
+NET "hsync_out"  LOC = "R9"  ; 
+NET "vsync_out"  LOC = "T10"  ; 
